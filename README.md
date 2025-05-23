@@ -17,7 +17,7 @@ This project explores the Netflix dataset using Python and Power BI to deliver a
 - Power BI
 - Kaggle Netflix Dataset
 
-<pre><code>## 📁 Folder Structure ``` Netflix-Movies-TVShows-Dashboard/ ├── data/ │ └── netflix_titles.csv ├── images/ │ └── netflix_dashboard.png ├── notebooks/ # (if applicable) │ └── data_cleaning.ipynb ├── Netflix_Dashboard.pbix └── README.md ``` </code></pre>
+📁 Folder Structure  Netflix-Movies-TVShows-Dashboard/ ├── data/ │ └── netflix_titles.csv ├── images/ │ └── netflix_dashboard.png ├── notebooks/ # (if applicable) │ └── data_cleaning.ipynb ├── Netflix_Dashboard.pbix └── README.md 
 
 ## 📌 Project Goals
 - Data Cleaning & Transformation
