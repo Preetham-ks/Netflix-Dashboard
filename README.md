@@ -28,3 +28,12 @@ Netflix-Movies-TVShows-Dashboard/
 │ └── data_cleaning.ipynb
 ├── Netflix_Dashboard.pbix
 └── README.md
+
+## 📌 Project Goals
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Power BI Dashboard Development
+- Business Insight Extraction
+
+## 📈 Dataset Source
+[Netflix Titles Dataset – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
