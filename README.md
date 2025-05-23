@@ -3,7 +3,7 @@
 This project explores the Netflix dataset using Python and Power BI to deliver a visually compelling dashboard with insights into Netflix’s global content library.
 
 ## 📊 Dashboard Preview
-![System Diagram](Image/Screenshot 2025-05-22 184339.png)
+![System Diagram](Image/Screenshot.png)
 
 ## 🔍 Key Insights
 - Out of 8,807 titles, ~70% are Movies and ~30% are TV Shows.
